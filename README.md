@@ -12,5 +12,5 @@ chmod u+x finder.py
 ```
 ## Or
 ```
-python3 finder.py
+python3 finder.py [website(eg. google)] [wordlist (eg. rockyou.txt)]
 ```
